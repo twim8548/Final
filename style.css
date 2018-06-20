@@ -84,28 +84,28 @@ body {
 
 }
 .scene.start{
-  background-image: url(9.jpg);
+  background-image: url(start.jpg);
 }
 .scene.one{
-  background-image: url(8.jpg);
+  background-image: url(one.jpg);
 }
 .scene.two{
-  background-image: url(1.jpg);
+  background-image: url(two.jpg);
 }
 .scene.three{
-  background-image: url(3.jpg);
+  background-image: url(three.jpg);
 }
 .scene.four{
-  background-image: url(4.jpg);
+  background-image: url(four.jpg);
 }
 .scene.five{
-  background-image: url(5.jpg);
+  background-image: url(five.jpg);
 }
 .scene.six{
-  background-image: url(6.jpg);
+  background-image: url(six.jpg);
 }
 .scene.seven{
-  background-image: url(7.jpg);
+  background-image: url(seven.jpg);
 }
 
 .scene header{
