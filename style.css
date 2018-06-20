@@ -84,7 +84,7 @@ body {
 
 }
 .scene.start{
-  background-image: url(./img/9.jpg);
+  background-color:black;
 }
 .scene.one{
   background-image: url(./img/8.jpg);
