@@ -76,6 +76,12 @@ body {
   border-radius: 10px;
 }
 
+#dpTime{
+  position:fixed;
+  font-size : 2rem;
+  color:whitesmoke;
+}
+
 .scene {
   height: 100vh;
   overflow: hidden;
